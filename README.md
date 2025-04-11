@@ -4,12 +4,14 @@
 I am a front end developer with a passion for design and UX, and an ambition is to create nice looking, user friendly websites. I love working with transitions, animations, UI design and figuring out how to make websites easier to use.
 
 **Some technologies I have worked with**
-- Vue
+- Next.JS
 - React
 - TypeScript
 - JavaScript
+- GraphQL
 - HTML5
 - CSS3
+- Vue
 - Sass/Scss
 - Node.js
 - MongoDB
